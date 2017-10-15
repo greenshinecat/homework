@@ -21,5 +21,5 @@ void main()
 	{
 		cout<<endl;
 	}
-	cout<<"闰年的总年数为:"<<i<<endl;
+	cout<<"闂板勾鐨勬�诲勾鏁颁负:"<<i<<endl;
 }
