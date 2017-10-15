@@ -10,10 +10,9 @@ void main()
 	c=2*pi*r;
 	switch(K)
 	{
-	case 1:cout<<"Ô²µÄÃæ»ýÎª:"<<S<<endl;break;
-	case 2:cout<<"Ô²µÄÖÜ³¤Îª:"<<C<<endl;break;
-	case 3:cout<<"Ô²µÄÃæ»ýÎª:"<<S<<endl
-			   <<"Ô²µÄÖÜ³¤Îª:"<<C<<endl;break;
+	case 1:cout<<"åœ†çš„é¢ç§¯ä¸º:"<<S<<endl;break;
+	case 2:cout<<"åœ†çš„å‘¨é•¿ä¸º:"<<C<<endl;break;
+	case 3:cout<<"åœ†çš„é¢ç§¯ä¸º:"<<S<<endl<<"åœ†çš„å‘¨é•¿ä¸º:"<<C<<endl;break;
 	}
 }
 	
