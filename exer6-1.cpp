@@ -3,7 +3,7 @@ int main()
 {
 	int x,y,m,n,min,max,a[10];
 	for(x=0;x<10;x++)
-	cout<<"ÇëÊäÈëÒ»×éÊý¾Ý:"<<endl;
+	cout<<"è¯·è¾“å…¥ä¸€ç»„æ•°æ®:"<<endl;
 	cin>>a[x];
 	max=a[0];
 	min=a[0];
